@@ -1,0 +1,9 @@
+
+server:
+  port: 9879
+spring:
+  data:
+    mongodb:
+#      uri: mongodb://name:pass@localhost:27017/dbname
+      uri: mongodb://irs:projectx5211@172.16.102.205:7017/irs
+#      uri: mongodb://irs_middle:TdgjJSVKSGxSwkGU@dds-uf6e36bfa776b3b41.mongodb.rds.aliyuncs.com:3717/db_irs_middle
